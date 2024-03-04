@@ -1,0 +1,3 @@
+def todaysDate(){
+    echo "Hellooooo"
+}
