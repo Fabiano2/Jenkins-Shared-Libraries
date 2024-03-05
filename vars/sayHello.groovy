@@ -1,3 +1,3 @@
-def call(){
-    echo "Hellooooo testee"
+def call(name){
+    echo "Hellooooo testee ${name}"
 }
